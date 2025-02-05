@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src",
+        "types": ["node"],
+        "moduleResolution": "NodeNext",
+        "paths": {
+            "@elizaos/core": ["../core/src"]
+        },
+        "module": "NodeNext"
+    },
+    "include": ["src/**/*.ts"],
+    "references": [{ "path": "../core" }]
+}
