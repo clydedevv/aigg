@@ -4,8 +4,8 @@
     "modelProvider": "anthropic",
     "settings": {
       "secrets": {
-        "ANTHROPIC_API_KEY": "REDACTED_ANTHROPIC_KEY",
-        "PERPLEXITY_API_KEY": "REDACTED_PERPLEXITY_KEY"
+        "ANTHROPIC_API_KEY": "<ANTHROPIC_API_KEY>",
+        "PERPLEXITY_API_KEY": "<PERPLEXITY_API_KEY>"
       },
       "voice": {
         "model": ""
